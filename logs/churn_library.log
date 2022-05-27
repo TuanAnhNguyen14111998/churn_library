@@ -1,0 +1,16 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - File churn_distribution.png was found
+root - INFO - File customer_age_distribution.png was found
+root - INFO - File marital_status_distribution.png was found
+root - INFO - File total_transaction_distribution.png was found
+root - INFO - File heatmap.png was found
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Testing perform_feature_engineering. DataFrame sizes are consistent: SUCCESS
+root - INFO - Testing train_models: SUCCESS
+root - INFO - File rfc_model.pkl was found
+root - INFO - File roc_curve_result.png was found
+root - INFO - File rf_results.png was found
+root - INFO - File logistic_results.png was found
+root - INFO - File feature_importances.png was found
